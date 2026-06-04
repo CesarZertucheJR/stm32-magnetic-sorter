@@ -88,4 +88,4 @@ Configured via direct register writes to `GPIOA_MODER` (no HAL library used):
 ## Author
 
 Cesar Zertuche — Mechatronics Engineering, Texas A&M University  
-[LinkedIn](www.linkedin.com/in/cesar-zertuche-a650872aa) · [GitHub]([https://github.com/](https://github.com/CesarZertucheJR))
+[LinkedIn](https://github.com/CesarZertucheJR/stm32-magnetic-sorter/blob/main/www.linkedin.com/in/cesar-zertuche-a650872aa)
